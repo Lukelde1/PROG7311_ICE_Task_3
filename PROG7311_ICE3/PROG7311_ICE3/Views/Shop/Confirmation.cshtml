@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Order Confirmed";
+}
+
+<style>
+    .confirm-wrap {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 60vh;
+        text-align: center;
+    }
+
+    .confirm-icon {
+        font-size: 4rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .confirm-heading {
+        font-family: 'Syne', sans-serif;
+        font-size: 2.5rem;
+        font-weight: 800;
+        margin-bottom: 0.8rem;
+        letter-spacing: -1px;
+    }
+
+    .confirm-sub {
+        color: #888;
+        margin-bottom: 0.5rem;
+    }
+
+    .confirm-total {
+        color: #e8ff4d;
+        font-size: 1.4rem;
+        font-weight: 700;
+        margin: 1rem 0 2.5rem;
+    }
+
+    .btn-back {
+        display: inline-block;
+        padding: 0.75rem 2rem;
+        background: #e8ff4d;
+        color: #0f0f0f;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 700;
+        font-family: 'DM Sans', sans-serif;
+        transition: opacity 0.2s;
+    }
+
+        .btn-back:hover {
+            opacity: 0.85;
+        }
+</style>
+
+<div class="confirm-wrap">
+    <div class="confirm-icon">✅</div>
+    <h1 class="confirm-heading">Order Confirmed!</h1>
+    <p class="confirm-sub">Order #@ViewBag.OrderId has been placed successfully.</p>
+    <div class="confirm-total">@ViewBag.Total</div>
+    <a class="btn-back" asp-action="Index" asp-controller="Shop">Continue Shopping →</a>
+</div>

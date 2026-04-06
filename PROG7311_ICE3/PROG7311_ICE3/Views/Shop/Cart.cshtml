@@ -1,0 +1,153 @@
+﻿@model IEnumerable<PROG7311_ICE3.Models.CartItem>
+@{
+    ViewData["Title"] = "Cart";
+}
+
+<style>
+    .page-heading {
+        font-family: 'Syne', sans-serif;
+        font-size: 2.8rem;
+        font-weight: 800;
+        margin-bottom: 2rem;
+        letter-spacing: -1px;
+    }
+
+    .empty-msg {
+        color: #888;
+        font-size: 1rem;
+        margin-top: 1rem;
+    }
+
+    .cart-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 2rem;
+    }
+
+        .cart-table th {
+            text-align: left;
+            font-family: 'Syne', sans-serif;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #888;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #2a2a2a;
+        }
+
+        .cart-table td {
+            padding: 1.1rem 0;
+            border-bottom: 1px solid #1f1f1f;
+            vertical-align: middle;
+        }
+
+    .item-name {
+        font-weight: 500;
+    }
+
+    .item-price {
+        color: #e8ff4d;
+    }
+
+    .btn-remove {
+        background: transparent;
+        border: 1px solid #333;
+        color: #888;
+        padding: 0.4rem 0.9rem;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 0.8rem;
+        transition: all 0.2s;
+    }
+
+        .btn-remove:hover {
+            border-color: #e84d4d;
+            color: #e84d4d;
+        }
+
+    .cart-total {
+        text-align: right;
+        font-family: 'Syne', sans-serif;
+        font-size: 1.6rem;
+        font-weight: 800;
+        margin-bottom: 1.5rem;
+    }
+
+        .cart-total span {
+            color: #e8ff4d;
+        }
+
+    .btn-checkout {
+        display: block;
+        margin-left: auto;
+        padding: 0.8rem 2.5rem;
+        background: #e8ff4d;
+        color: #0f0f0f;
+        border: none;
+        border-radius: 8px;
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 700;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: opacity 0.2s;
+    }
+
+        .btn-checkout:hover {
+            opacity: 0.85;
+        }
+
+    .back-link {
+        display: inline-block;
+        margin-bottom: 2rem;
+        color: #888;
+        text-decoration: none;
+        font-size: 0.9rem;
+    }
+
+        .back-link:hover {
+            color: #f0f0f0;
+        }
+</style>
+
+<h1 class="page-heading">Your Cart</h1>
+<a class="back-link" asp-action="Index" asp-controller="Shop">← Back to Products</a>
+
+@if (!Model.Any())
+{
+    <p class="empty-msg">Your cart is empty. <a href="/Shop/Index" style="color:#e8ff4d;">Browse products →</a></p>
+}
+else
+{
+    <table class="cart-table">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Qty</th>
+                <th>Subtotal</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="item-name">@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td class="item-price">R @item.TotalPrice.ToString("N2")</td>
+                    <td>
+                        <form asp-action="RemoveFromCart" method="post">
+                            <input type="hidden" name="productId" value="@item.Product.Id" />
+                            <button type="submit" class="btn-remove">Remove</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="cart-total">Total: <span>R @Model.Sum(i => i.TotalPrice).ToString("N2")</span></div>
+
+    <form asp-action="Checkout" method="post">
+        <button type="submit" class="btn-checkout">Place Order →</button>
+    </form>
+}

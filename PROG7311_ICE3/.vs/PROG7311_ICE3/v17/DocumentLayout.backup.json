@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\views\\shop\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\views\\shop\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\views\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\views\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\models\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\models\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|c:\\users\\luke eybers\\source\\repos\\prog7311_ice3\\prog7311_ice3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279A9CF-C564-4435-8D6E-2F63409791F4}|PROG7311_ICE3\\PROG7311_ICE3.csproj|solutionrelative:prog7311_ice3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Views\\Shop\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Views\\Shop\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Views\\Shop\\Confirmation.cshtml",
+              "RelativeToolTip": "PROG7311_ICE3\\Views\\Shop\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T07:57:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Views\\Shop\\Cart.cshtml",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Views\\Shop\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Views\\Shop\\Cart.cshtml",
+              "RelativeToolTip": "PROG7311_ICE3\\Views\\Shop\\Cart.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T07:56:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "PROG7311_ICE3\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T07:55:52.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PROG7311_ICE3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T07:54:48.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Program.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Program.cs",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Program.cs",
+              "RelativeToolTip": "PROG7311_ICE3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:54:01.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "PROG7311_ICE3\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:52:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\OrderService.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Models\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\OrderService.cs",
+              "RelativeToolTip": "PROG7311_ICE3\\Models\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:51:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Models\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\ProductRepository.cs",
+              "RelativeToolTip": "PROG7311_ICE3\\Models\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:50:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\Order.cs",
+              "RelativeToolTip": "PROG7311_ICE3\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:50:29.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\CartItem.cs",
+              "RelativeToolTip": "PROG7311_ICE3\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:50:02.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Models\\Product.cs",
+              "RelativeToolTip": "PROG7311_ICE3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:49:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PROG7311_ICE3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Luke Eybers\\source\\repos\\PROG7311_ICE3\\PROG7311_ICE3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PROG7311_ICE3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:48:24.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
